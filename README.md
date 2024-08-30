@@ -61,3 +61,5 @@ grep -i 'contact-form-7' access.log
 grep -i 'simple-file-list' access.log
 ```
 These searches helped me identify any meaningful activity related to activating these plugins.
+
+https://blueteamlabs.online/achievement/share/challenge/60157/9#
